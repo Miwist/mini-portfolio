@@ -205,6 +205,7 @@ body.dark-theme {
 }
 
 .profile__info-group {
+  margin-left: 35px;
   text-align: center;
 }
 
