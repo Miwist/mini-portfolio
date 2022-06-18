@@ -1,2 +1,2 @@
-# mini-portgolio
+# mini-portfolio
 site
